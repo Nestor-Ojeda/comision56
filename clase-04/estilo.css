@@ -1,0 +1,60 @@
+body {
+    font-family: Helvetica;
+    background-color:#DAF7A6;
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1 {
+    font-family: monospace;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.titulo_especial {
+    padding: 10px;
+    background-color: #E02401;
+    border: cornsilk 1px dotted;
+    font-size: 20px ;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: cyan;
+    line-height: 150%;
+
+
+}
+h2{
+    padding: 15px ;
+    border: #E02401 1px dotted;
+    background-color: bisque;
+    text-align: center;
+    border-bottom-right-radius: 20px;
+
+}
+
+table{
+    background-color: darkgray;
+    color: darkgreen;
+    
+}
+.decorado {
+    font: oblique bold 120% cursive;
+    border-style: dashed;
+}
+.sombra{
+    color: deeppink;
+    text-shadow: black 4px 4px 8px;
+}
+img{
+    width: 100%;
+    max-height: 600px;
+}
+
+p {
+    text-indent: 20px;
+}

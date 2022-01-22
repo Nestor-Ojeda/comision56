@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(1, 104, 73);
+    color: white;
+    font-family: 'Courier New';
+
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    border: deeppink 2px dashed;
+    padding: 10px;
+    height: 500px;
+}
+
+.flex-container div {
+    margin: 10px;
+    width: 100px;
+   border: lightcoral 2px dashed;
+   font-size: 25px;
+   text-align: center; 
+
+}
